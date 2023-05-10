@@ -85,6 +85,7 @@ img{
 }
 
 .controle-ajuste {
+    background-color: white;
     display: inline-block;
     height: 40px;
     line-height: 44px;
